@@ -1,1 +1,1 @@
-my vagrant task
+vagrant task
